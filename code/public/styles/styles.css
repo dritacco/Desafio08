@@ -1,0 +1,36 @@
+html {
+  background-color: rgb(34, 34, 34);
+}
+
+/* // Header */
+.Header {
+  text-align: center;
+  font-size: 1.5rem;
+  color: rgb(146, 7, 7);
+}
+
+.Main {
+  text-align: center;
+  color: whitesmoke;
+  margin-bottom: 2rem;
+}
+.Main h2 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  text-decoration: underline;
+}
+.Main dt {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: silver;
+  font-weight: bold;
+}
+.Main dd {
+  border: blue solid;
+  padding: 10px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+/* // Footer */
